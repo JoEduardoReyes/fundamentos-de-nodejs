@@ -1,0 +1,24 @@
+{
+  "name": "octubre-2021---fundamentos-de-node",
+  "description": "Un repo simple para el curso de Fundamentos de NodeJS de Platzi",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoEduardoReyes/fundamentos-de-nodejs.git"
+  },
+  "keywords": [
+    "Node",
+    "NPM",
+    "Javascript"
+  ],
+  "author": "JoEduardoReyes <joeduardoreyes@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoEduardoReyes/fundamentos-de-nodejs/issues"
+  },
+  "homepage": "https://github.com/JoEduardoReyes/fundamentos-de-nodejs#readme"
+}
